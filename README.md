@@ -24,5 +24,4 @@ INT476_CA1/
 ├── demo.ipynb
 ├── README.md
 ├── .gitignore
-└── .env                 # Local only — do not submit
-```
+└── .env                
